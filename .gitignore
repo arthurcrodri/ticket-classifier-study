@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+.venv/
+venv/
+__pycache__/
+
+# Arquivos do Jupyter/Python
+.ipynb_checkpoints/
+*.pyc
+
+# Dados locais (se houver)
+*.db
+*.sqlite3
+
+# Logs
+*.log
