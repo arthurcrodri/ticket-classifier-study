@@ -39,14 +39,14 @@ Certifique-se de ter o Python instalado.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/ticket-classifier.git](https://github.com/SEU_USUARIO/ticket-classifier.git)
-   cd ticket-classifier
+   git clone https://github.com/arthurcrodri/ticket-classifier-study.git
+   cd ticket-classifier-study
    ```
 
 2. **Crie e ative o ambiente virtual:**
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate # Para Linux e Mac
+   source .venv/bin/activate    # Para Linux e Mac
    ```
 
 3. **Instale as dependências:**
